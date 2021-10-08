@@ -1,6 +1,8 @@
 # Hey Jude
 
-print the Beatles song text "Hey Jude"
+print the Beatles song text "Hey Jude" using the following scheme
+
+![hey jude scheme](https://66.media.tumblr.com/tumblr_kolo40SQZq1qzy3cwo1_r1_1280.jpg)
 
 ```
 Hey Jude
